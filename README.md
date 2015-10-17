@@ -1,4 +1,5 @@
 # BPMplaylist
+```
 Usage: bpmplaylist -d directory [OPTIONS]
 Creates a pseudorandom playlist based on your music's BPM and playlist lenght.
 If no options has been set, a playlist spanning 45 minutes will be created.
@@ -16,3 +17,4 @@ Options:
                                more granularity gives less randomness.
                                this must be an integer.
   -h, --help                 show this message and exit
+```
