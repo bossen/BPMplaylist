@@ -1,0 +1,7 @@
+/home/pi/fun/morning/morning/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/fun/morning/morning/bin/Release/morning.exe.mdb
+/home/pi/fun/morning/morning/bin/Release/morning.exe
+/home/pi/fun/morning/morning/obj/x86/Release/morning.exe
+/home/pi/fun/morning/morning/obj/x86/Release/morning.exe.mdb
+/home/pi/fun/morning/morning/bin/Release/policy.2.0.taglib-sharp.dll
+/home/pi/fun/morning/morning/bin/Release/taglib-sharp.dll

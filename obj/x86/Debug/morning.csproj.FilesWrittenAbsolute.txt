@@ -1,0 +1,8 @@
+/home/pi/fun/morning/morning/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/fun/morning/morning/bin/Debug/ExifLib.dll
+/home/pi/fun/morning/morning/bin/Debug/morning.exe.mdb
+/home/pi/fun/morning/morning/bin/Debug/morning.exe
+/home/pi/fun/morning/morning/obj/x86/Debug/morning.exe
+/home/pi/fun/morning/morning/obj/x86/Debug/morning.exe.mdb
+/home/pi/fun/morning/morning/bin/Debug/policy.2.0.taglib-sharp.dll
+/home/pi/fun/morning/morning/bin/Debug/taglib-sharp.dll
