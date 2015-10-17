@@ -1,4 +1,5 @@
 # BPMplaylist
+Dependency: bpm-tag http://wiki.xwax.org/bpm-tools
 ```
 Usage: bpmplaylist -d directory [OPTIONS]
 Creates a pseudorandom playlist based on your music's BPM and playlist lenght.
